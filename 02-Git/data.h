@@ -3,3 +3,4 @@
 
 class Gesture;
 extern const std::vector<Gesture> gestures;
+

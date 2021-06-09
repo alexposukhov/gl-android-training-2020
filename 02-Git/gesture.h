@@ -11,3 +11,4 @@ struct Gesture
     bool operator>(const Gesture& rhs) const;
     bool operator==(const Gesture& rhs) const;
 };
+

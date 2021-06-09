@@ -7,3 +7,4 @@ const std::vector<Gesture> gestures =
     {"Paper", "p", {"s"}},
     {"Scissors", "s", {"r"}}
 };
+

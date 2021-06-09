@@ -74,3 +74,4 @@ bool Game::RunGameLoop()
     
     return CheckWinConditions(AIpickedGesture, PlayerPickedGesture);
 }
+

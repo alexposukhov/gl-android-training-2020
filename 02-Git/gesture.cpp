@@ -17,3 +17,4 @@ bool Gesture::operator==(const Gesture& rhs) const
 {
     return rhs.abbreviation == abbreviation;
 }
+
